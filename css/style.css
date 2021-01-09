@@ -1,0 +1,41 @@
+.logo{
+    color: brown;
+margin-left: 50%;
+    border: 5px dashed blue;
+}
+h3{ color: rgb(34, 30, 34);}
+h2:hover {
+ color:teal;}
+ h2{color: tomato;}
+ #sign{
+    background-color: blueviolet;}
+
+.rotate:hover{
+    transform: rotateZ(360deg);
+    transition: 1s;
+}
+
+li{
+    display: inline;
+}
+
+.navbar{
+    display:flex;
+    justify-content: space-between;
+}
+a{
+    text-decoration: none;
+}
+.test {
+    
+    display: flex;
+    justify-content: space-between ;
+  }
+ .style{
+     display: flex;
+     justify-content: space-between;
+ }
+ .me{
+     text-align: center;
+ }
+ 
